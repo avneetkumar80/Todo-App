@@ -29,5 +29,6 @@ The repository is hosted on **GitHub** and follows standard project structure an
 ---
 
 ## 📂 Project Structure
-<img width="1898" height="921" alt="image" src="https://github.com/user-attachments/assets/2470af75-4e5a-49de-b0a2-8c6c730694da" />
+<img width="1898" height="921" alt="Screenshot 2025-12-23 105142" src="https://github.com/user-attachments/assets/1f12eaa3-85ba-4501-acf6-e1f037a1ea9d" />
+
 
